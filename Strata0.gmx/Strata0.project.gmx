@@ -42,20 +42,40 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\music</sound>
+    <sound>sound\music2</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_mine</sprite>
+    <sprite>sprites\spr_menu_item_level1</sprite>
+    <sprite>sprites\spr_menu_item_level2</sprite>
+    <sprite>sprites\spr_menu_item_about</sprite>
+    <sprite>sprites\spr_menu_item_title</sprite>
+    <sprite>sprites\spr_menu_item_thanks</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\string_tokenize.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_player</object>
-    <object>objects\level</object>
     <object>objects\obj_mine</object>
+    <object>objects\obj_level1</object>
+    <object>objects\obj_menu_item_level1</object>
+    <object>objects\obj_menu_item_level2</object>
+    <object>objects\obj_menu_item_about</object>
+    <object>objects\obj_menu_item_title</object>
+    <object>objects\obj_menu_item_thanks</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\room_main_menu</room>
+    <room>rooms\room_level1</room>
+    <room>rooms\room_level2</room>
+    <room>rooms\room_credits</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

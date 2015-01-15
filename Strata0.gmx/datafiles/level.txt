@@ -1,93 +1,293 @@
-91
-0 spawn,600,208,L
-3750 spawn,600,208,L
-7500 spawn,600,208,L
-11250 spawn,600,208,L
-15000 spawn,600,020,L
-15000 spawn,600,052,L
-15000 spawn,600,084,L
-15000 spawn,600,116,L
-15000 spawn,600,260,L
-15000 spawn,600,292,L
-15000 spawn,600,324,L
-15000 spawn,600,356,L
-15000 spawn,600,388,L
-15000 spawn,600,420,L
-15000 spawn,600,452,L
-22500 spawn,000,480,U
-22500 spawn,032,480,U
-22500 spawn,064,480,U
-22500 spawn,096,480,U
-22500 spawn,128,480,U
-22500 spawn,200,480,U
-22500 spawn,232,480,U
-22500 spawn,264,480,U
-22500 spawn,296,480,U
-22500 spawn,328,480,U
-22500 spawn,400,480,U
-22500 spawn,432,480,U
-22500 spawn,464,480,U
-22500 spawn,496,480,U
-22500 spawn,528,480,U
-22500 spawn,560,480,U
-30000 spawn,600,000,L
-30000 spawn,600,032,L
-30000 spawn,600,064,L
-30000 spawn,600,096,L
-30000 spawn,600,128,L
-30000 spawn,600,192,L
-30000 spawn,600,224,L
-30000 spawn,600,256,L
-30000 spawn,600,288,L
-30000 spawn,600,352,L
-30000 spawn,600,384,L
-30000 spawn,600,416,L
-30000 spawn,600,448,L
-30000 spawn,600,480,L
-30937 spawn,600,000,L
-30937 spawn,600,032,L
-30937 spawn,600,064,L
-30937 spawn,600,096,L
-30937 spawn,600,128,L
-30937 spawn,600,192,L
-30937 spawn,600,224,L
-30937 spawn,600,256,L
-30937 spawn,600,288,L
-30937 spawn,600,352,L
-30937 spawn,600,384,L
-30937 spawn,600,416,L
-30937 spawn,600,448,L
-30937 spawn,600,480,L
-31875 spawn,600,000,L
-31875 spawn,600,032,L
-31875 spawn,600,064,L
-31875 spawn,600,096,L
-31875 spawn,600,128,L
-31875 spawn,600,192,L
-31875 spawn,600,224,L
-31875 spawn,600,256,L
-31875 spawn,600,288,L
-31875 spawn,600,352,L
-31875 spawn,600,384,L
-31875 spawn,600,416,L
-31875 spawn,600,448,L
-31875 spawn,600,480,L
-32812 spawn,600,000,L
-32812 spawn,600,032,L
-32812 spawn,600,064,L
-32812 spawn,600,096,L
-32812 spawn,600,128,L
-32812 spawn,600,192,L
-32812 spawn,600,224,L
-32812 spawn,600,256,L
-32812 spawn,600,288,L
-32812 spawn,600,352,L
-32812 spawn,600,384,L
-32812 spawn,600,416,L
-32812 spawn,600,448,L
-32812 spawn,600,480,L
-33750 pause
-35000 start
-35117 pause
-35235 start
-
+0,spawn,mine,600,208,L
+3750,spawn,mine,600,208,L
+7500,spawn,mine,600,208,L
+11250,spawn,mine,600,208,L
+15000,spawn,mine,600,020,L
+15000,spawn,mine,600,052,L
+15000,spawn,mine,600,084,L
+15000,spawn,mine,600,116,L
+15000,spawn,mine,600,260,L
+15000,spawn,mine,600,292,L
+15000,spawn,mine,600,324,L
+15000,spawn,mine,600,356,L
+15000,spawn,mine,600,388,L
+15000,spawn,mine,600,420,L
+15000,spawn,mine,600,452,L
+22500,spawn,mine,000,480,U
+22500,spawn,mine,032,480,U
+22500,spawn,mine,064,480,U
+22500,spawn,mine,096,480,U
+22500,spawn,mine,128,480,U
+22500,spawn,mine,200,480,U
+22500,spawn,mine,232,480,U
+22500,spawn,mine,264,480,U
+22500,spawn,mine,296,480,U
+22500,spawn,mine,328,480,U
+22500,spawn,mine,400,480,U
+22500,spawn,mine,432,480,U
+22500,spawn,mine,464,480,U
+22500,spawn,mine,496,480,U
+22500,spawn,mine,528,480,U
+22500,spawn,mine,560,480,U
+30000,spawn,mine,600,000,L
+30000,spawn,mine,600,032,L
+30000,spawn,mine,600,064,L
+30000,spawn,mine,600,096,L
+30000,spawn,mine,600,128,L
+30000,spawn,mine,600,192,L
+30000,spawn,mine,600,224,L
+30000,spawn,mine,600,256,L
+30000,spawn,mine,600,288,L
+30000,spawn,mine,600,352,L
+30000,spawn,mine,600,384,L
+30000,spawn,mine,600,416,L
+30000,spawn,mine,600,448,L
+30000,spawn,mine,600,480,L
+30937,spawn,mine,600,000,L
+30937,spawn,mine,600,032,L
+30937,spawn,mine,600,064,L
+30937,spawn,mine,600,096,L
+30937,spawn,mine,600,128,L
+30937,spawn,mine,600,192,L
+30937,spawn,mine,600,224,L
+30937,spawn,mine,600,256,L
+30937,spawn,mine,600,288,L
+30937,spawn,mine,600,352,L
+30937,spawn,mine,600,384,L
+30937,spawn,mine,600,416,L
+30937,spawn,mine,600,448,L
+30937,spawn,mine,600,480,L
+31875,spawn,mine,600,000,L
+31875,spawn,mine,600,032,L
+31875,spawn,mine,600,064,L
+31875,spawn,mine,600,096,L
+31875,spawn,mine,600,128,L
+31875,spawn,mine,600,192,L
+31875,spawn,mine,600,224,L
+31875,spawn,mine,600,256,L
+31875,spawn,mine,600,288,L
+31875,spawn,mine,600,352,L
+31875,spawn,mine,600,384,L
+31875,spawn,mine,600,416,L
+31875,spawn,mine,600,448,L
+31875,spawn,mine,600,480,L
+32812,spawn,mine,600,000,L
+32812,spawn,mine,600,032,L
+32812,spawn,mine,600,064,L
+32812,spawn,mine,600,096,L
+32812,spawn,mine,600,128,L
+32812,spawn,mine,600,192,L
+32812,spawn,mine,600,224,L
+32812,spawn,mine,600,256,L
+32812,spawn,mine,600,288,L
+32812,spawn,mine,600,352,L
+32812,spawn,mine,600,384,L
+32812,spawn,mine,600,416,L
+32812,spawn,mine,600,448,L
+32812,spawn,mine,600,480,L
+33750,comment,round1
+33750,pause
+35000,start
+35235,pause
+36094,start
+36328,pause
+36562,start
+36797,pause
+37031,start
+37265,pause
+37499,start
+38202,pause
+38436,start
+38436,spawn,mine,0,480,U
+38436,spawn,mine,32,480,U
+38436,spawn,mine,112,480,U
+38436,spawn,mine,144,480,U
+38436,spawn,mine,176,480,U
+38436,spawn,mine,208,480,U
+38436,spawn,mine,284,480,U
+38436,spawn,mine,316,480,U
+38436,spawn,mine,348,480,U
+38436,spawn,mine,380,480,U
+38436,spawn,mine,412,480,U
+38436,spawn,mine,444,480,U
+38436,spawn,mine,476,480,U
+38436,spawn,mine,508,480,U
+38436,spawn,mine,540,480,U
+38436,spawn,mine,572,480,U
+38436,spawn,mine,0,700,U
+38436,spawn,mine,32,700,U
+38436,spawn,mine,64,700,U
+38436,spawn,mine,96,700,U
+38436,spawn,mine,128,700,U
+38436,spawn,mine,208,700,U
+38436,spawn,mine,240,700,U
+38436,spawn,mine,272,700,U
+38436,spawn,mine,304,700,U
+38436,spawn,mine,380,700,U
+38436,spawn,mine,412,700,U
+38436,spawn,mine,444,700,U
+38436,spawn,mine,476,700,U
+38436,spawn,mine,508,700,U
+38436,spawn,mine,540,700,U
+38436,spawn,mine,572,700,U
+38905,pause
+39608,start
+39843,pause
+40077,start
+40312,pause
+40546,start
+40780,pause
+41250,comment,round2
+41250,start
+42500,pause
+42735,start
+43594,pause
+43828,start
+44064,pause
+44299,start
+44533,pause
+44768,start
+45002,pause
+45002,spawn,mine,-32,000,R
+45002,spawn,mine,-32,032,R
+45002,spawn,mine,-32,064,R
+45002,spawn,mine,-32,096,R
+45002,spawn,mine,-32,128,R
+45002,spawn,mine,-32,160,R
+45002,spawn,mine,-32,192,R
+45002,spawn,mine,-32,272,R
+45002,spawn,mine,-32,304,R
+45002,spawn,mine,-32,336,R
+45002,spawn,mine,-32,368,R
+45002,spawn,mine,-32,400,R
+45002,spawn,mine,-32,432,R
+45002,spawn,mine,-32,464,R
+45002,spawn,mine,-32,496,R
+45002,spawn,mine,-32,528,R
+45002,spawn,mine,-32,560,R
+45705,start
+45939,pause
+46408,start
+47111,pause
+47346,start
+47580,pause
+47815,start
+48049,pause
+48283,start
+48283,spawn,mine,-32,080,R
+48283,spawn,mine,-32,112,R
+48283,spawn,mine,-32,144,R
+48283,spawn,mine,-32,176,R
+48283,spawn,mine,-32,208,R
+48283,spawn,mine,-32,240,R
+48283,spawn,mine,-32,272,R
+48283,spawn,mine,-32,304,R
+48283,spawn,mine,-32,336,R
+48283,spawn,mine,-32,368,R
+48283,spawn,mine,-32,400,R
+48283,spawn,mine,-32,432,R
+48283,spawn,mine,-32,464,R
+48283,spawn,mine,-32,496,R
+48283,spawn,mine,-32,528,R
+48750,comment,round3
+48750,pause
+50000,start
+50235,pause
+51094,start
+51328,pause
+51564,start
+51799,pause
+52033,start
+52268,pause
+52502,start
+52502,spawn,mine,0,-32,D
+52502,spawn,mine,32,-32,D
+52502,spawn,mine,64,-32,D
+52502,spawn,mine,96,-32,D
+52502,spawn,mine,190,-32,D
+52502,spawn,mine,222,-32,D
+52502,spawn,mine,254,-32,D
+52502,spawn,mine,286,-32,D
+52502,spawn,mine,318,-32,D
+52502,spawn,mine,350,-32,D
+52502,spawn,mine,382,-32,D
+52502,spawn,mine,470,-32,D
+52502,spawn,mine,502,-32,D
+52502,spawn,mine,534,-32,D
+52502,spawn,mine,566,-32,D
+53205,pause
+53439,start
+53908,pause
+54611,start
+54846,pause
+55080,start
+55315,pause,
+55549,start
+55783,pause
+56250,comment,round4
+56250,start
+56250,spawn,mine,0,-32,D
+56250,spawn,mine,32,-32,D
+56250,spawn,mine,64,-32,D
+56250,spawn,mine,96,-32,D
+56250,spawn,mine,128,-32,D
+56250,spawn,mine,160,-32,D
+56250,spawn,mine,192,-32,D
+56250,spawn,mine,224,-32,D
+56250,spawn,mine,318,-32,D
+56250,spawn,mine,350,-32,D
+56250,spawn,mine,382,-32,D
+56250,spawn,mine,470,-32,D
+56250,spawn,mine,502,-32,D
+56250,spawn,mine,534,-32,D
+56250,spawn,mine,566,-32,D
+56250,spawn,mine,0,-232,D
+56250,spawn,mine,32,-232,D
+56250,spawn,mine,64,-232,D
+56250,spawn,mine,96,-232,D
+56250,spawn,mine,128,-232,D
+56250,spawn,mine,160,-232,D
+56250,spawn,mine,192,-232,D
+56250,spawn,mine,224,-232,D
+56250,spawn,mine,256,-232,D
+56250,spawn,mine,288,-232,D
+56250,spawn,mine,320,-232,D
+56250,spawn,mine,470,-232,D
+56250,spawn,mine,502,-232,D
+56250,spawn,mine,534,-232,D
+56250,spawn,mine,566,-232,D
+57500,pause
+57735,start
+58594,pause
+58828,start
+59064,pause
+59299,start
+59533,pause
+59768,start
+60002,pause
+60705,start
+60939,pause
+61408,start
+62111,pause
+62346,start
+62580,pause
+62815,start
+63049,pause
+63283,start
+63750,spawn,mine,160,-32,D
+63984,spawn,mine,608,105,L
+64219,spawn,mine,372,408,U
+64453,spawn,mine,-32,0,R
+64687,spawn,mine,305,-32,D
+64922,spawn,mine,608,288,L
+65156,spawn,mine,28,408,U
+65390,spawn,mine,-32,380,R
+65625,spawn,mine,210,-32,D
+65859,spawn,mine,608,210,L
+66094,spawn,mine,210,408,U
+66328,spawn,mine,-32,340,R
+66562,spawn,mine,574,-32,D
+66797,spawn,mine,608,56,L
+67031,spawn,mine,168,480,U
+67266,spawn,mine,-32,350,R
+-1
