@@ -52,6 +52,7 @@
     <sprite>sprites\spr_menu_item_about</sprite>
     <sprite>sprites\spr_menu_item_title</sprite>
     <sprite>sprites\spr_menu_item_thanks</sprite>
+    <sprite>sprites\spr_menu_item_footer</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -69,8 +70,8 @@
     <object>objects\obj_menu_item_about</object>
     <object>objects\obj_menu_item_title</object>
     <object>objects\obj_menu_item_thanks</object>
+    <object>objects\obj_menu_item_footer</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\room_main_menu</room>
     <room>rooms\room_level1</room>
